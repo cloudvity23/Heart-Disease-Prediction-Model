@@ -4,7 +4,7 @@ This project predicts the likelihood of heart disease based on clinical features
 The model is trained on the **Cleveland Heart Disease dataset** and applies **Principal Component Analysis (PCA)** for dimensionality reduction, followed by a **Random Forest Classifier** for prediction.
 
 ## 📌 Features
-- **Dataset**: Cleveland Heart Disease dataset (`Heart_disease_cleveland_new(1).csv`)
+- **Dataset**: Cleveland Heart Disease dataset (`cleveland_heart.csv`)
 - **Models Used**: Logistic Regression, KNN, Decision Tree, Random Forest, SVM, Naive Bayes
 - **Best Model**: Random Forest (highest accuracy in tests)
 - **PCA**: Reduces 14 original features to 13 principal components (based on feature importance)
