@@ -30,5 +30,5 @@ The model is trained on the **Cleveland Heart Disease dataset** and applies **Pr
 ## 🚀 Installation & Usage
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/cloudvity23/Heart Disease Prediction Model.git
+git clone https://github.com/cloudvity23/Heart-Disease-Prediction-Model.git
 cd heart-disease-prediction
